@@ -647,14 +647,14 @@
 .light-blue.darken-4 {
   background-color: #01579b !important; }
 
-.light-blue-text.text-darken-4, .light-blue-text.text-primary, .text-primary.link, nav a.link, nav .card a, .card nav a, .card a.text-primary, nav a.light-blue-text, .text-darken-4.link, .card a.text-darken-4, .card .card-post-body h2 a.header-anchor, .card-post-body h2 .card a.header-anchor,
-.card .card-post-body h3 a.header-anchor,
-.card-post-body h3 .card a.header-anchor,
-.card .card-post-body h4 a.header-anchor,
-.card-post-body h4 .card a.header-anchor,
-.card .card-post-body h5 a.header-anchor,
-.card-post-body h5 .card a.header-anchor,
-.card .card-post-body h6 a.header-anchor,
+.light-blue-text.text-darken-4, .light-blue-text.text-primary, .text-primary.link, nav a.link, nav .card a, .card nav a, .card a.text-primary, nav a.light-blue-text, .text-darken-4.link, .card a.text-darken-4, .card .card-post-body h2 a.header-anchor, .card-post-body h2 .card a.header-anchor, .card
+.card-post-body h3 a.header-anchor,
+.card-post-body h3 .card a.header-anchor, .card
+.card-post-body h4 a.header-anchor,
+.card-post-body h4 .card a.header-anchor, .card
+.card-post-body h5 a.header-anchor,
+.card-post-body h5 .card a.header-anchor, .card
+.card-post-body h6 a.header-anchor,
 .card-post-body h6 .card a.header-anchor, .card-post-body figure.link, .card-post-body h2 .link.header-anchor,
 .card-post-body h3 .link.header-anchor,
 .card-post-body h4 .link.header-anchor,
@@ -842,24 +842,20 @@
 .card-post-body h6 .post-meta.header-anchor, .card-post-body figure, .card-post-body h2 .teal-text.header-anchor, .card-post-body h2 .header-anchor.text-primary, .card-post-body h2 nav a.header-anchor, nav .card-post-body h2 a.header-anchor, .card-post-body h2 figure.header-anchor,
 .card-post-body h3 .teal-text.header-anchor,
 .card-post-body h3 .header-anchor.text-primary,
-.card-post-body h3 nav a.header-anchor,
-nav .card-post-body h3 a.header-anchor,
-.card-post-body h3 figure.header-anchor,
+.card-post-body h3 nav a.header-anchor, nav
+.card-post-body h3 a.header-anchor, .card-post-body h3 figure.header-anchor,
 .card-post-body h4 .teal-text.header-anchor,
 .card-post-body h4 .header-anchor.text-primary,
-.card-post-body h4 nav a.header-anchor,
-nav .card-post-body h4 a.header-anchor,
-.card-post-body h4 figure.header-anchor,
+.card-post-body h4 nav a.header-anchor, nav
+.card-post-body h4 a.header-anchor, .card-post-body h4 figure.header-anchor,
 .card-post-body h5 .teal-text.header-anchor,
 .card-post-body h5 .header-anchor.text-primary,
-.card-post-body h5 nav a.header-anchor,
-nav .card-post-body h5 a.header-anchor,
-.card-post-body h5 figure.header-anchor,
+.card-post-body h5 nav a.header-anchor, nav
+.card-post-body h5 a.header-anchor, .card-post-body h5 figure.header-anchor,
 .card-post-body h6 .teal-text.header-anchor,
 .card-post-body h6 .header-anchor.text-primary,
-.card-post-body h6 nav a.header-anchor,
-nav .card-post-body h6 a.header-anchor,
-.card-post-body h6 figure.header-anchor {
+.card-post-body h6 nav a.header-anchor, nav
+.card-post-body h6 a.header-anchor, .card-post-body h6 figure.header-anchor {
   color: #004d40 !important; }
 
 .teal.accent-1, nav.accent-1, .card-post-body figure.accent-1 {
@@ -1579,8 +1575,7 @@ nav .card-post-body h6 a.header-anchor,
 
 .blue-grey.lighten-5, .lighten-5.color-primary, nav.color-primary, .pagination nav.active,
 nav.page-footer, .pagination .lighten-5.active, .pagination .card-post-body figure.active, .card-post-body .pagination figure.active,
-.lighten-5.page-footer,
-.card-post-body figure.page-footer, .card-post-body figure.color-primary, nav.blue-grey, .card-post-body figure.blue-grey {
+.lighten-5.page-footer, .card-post-body figure.page-footer, .card-post-body figure.color-primary, nav.blue-grey, .card-post-body figure.blue-grey {
   background-color: #eceff1 !important; }
 
 .blue-grey-text.text-lighten-5, .card-post-body h2 .text-lighten-5.header-anchor,
@@ -1620,14 +1615,14 @@ nav.page-footer, .pagination .lighten-5.active, .pagination .card-post-body figu
 .lighten-2.page-footer {
   background-color: #90a4ae !important; }
 
-.blue-grey-text.text-lighten-2, .blue-grey-text.link, .card a.blue-grey-text, .card .card-post-body h2 a.header-anchor, .card-post-body h2 .card a.header-anchor,
-.card .card-post-body h3 a.header-anchor,
-.card-post-body h3 .card a.header-anchor,
-.card .card-post-body h4 a.header-anchor,
-.card-post-body h4 .card a.header-anchor,
-.card .card-post-body h5 a.header-anchor,
-.card-post-body h5 .card a.header-anchor,
-.card .card-post-body h6 a.header-anchor,
+.blue-grey-text.text-lighten-2, .blue-grey-text.link, .card a.blue-grey-text, .card .card-post-body h2 a.header-anchor, .card-post-body h2 .card a.header-anchor, .card
+.card-post-body h3 a.header-anchor,
+.card-post-body h3 .card a.header-anchor, .card
+.card-post-body h4 a.header-anchor,
+.card-post-body h4 .card a.header-anchor, .card
+.card-post-body h5 a.header-anchor,
+.card-post-body h5 .card a.header-anchor, .card
+.card-post-body h6 a.header-anchor,
 .card-post-body h6 .card a.header-anchor, .card-post-body h2 .link.header-anchor,
 .card-post-body h3 .link.header-anchor,
 .card-post-body h4 .link.header-anchor,
@@ -2444,14 +2439,14 @@ img {
 .light-blue.darken-4 {
   background-color: #01579b !important; }
 
-.light-blue-text.text-darken-4, .light-blue-text.text-primary, .text-primary.link, nav a.link, nav .card a, .card nav a, .card a.text-primary, nav a.light-blue-text, .text-darken-4.link, .card a.text-darken-4, .card .card-post-body h2 a.header-anchor, .card-post-body h2 .card a.header-anchor,
-.card .card-post-body h3 a.header-anchor,
-.card-post-body h3 .card a.header-anchor,
-.card .card-post-body h4 a.header-anchor,
-.card-post-body h4 .card a.header-anchor,
-.card .card-post-body h5 a.header-anchor,
-.card-post-body h5 .card a.header-anchor,
-.card .card-post-body h6 a.header-anchor,
+.light-blue-text.text-darken-4, .light-blue-text.text-primary, .text-primary.link, nav a.link, nav .card a, .card nav a, .card a.text-primary, nav a.light-blue-text, .text-darken-4.link, .card a.text-darken-4, .card .card-post-body h2 a.header-anchor, .card-post-body h2 .card a.header-anchor, .card
+.card-post-body h3 a.header-anchor,
+.card-post-body h3 .card a.header-anchor, .card
+.card-post-body h4 a.header-anchor,
+.card-post-body h4 .card a.header-anchor, .card
+.card-post-body h5 a.header-anchor,
+.card-post-body h5 .card a.header-anchor, .card
+.card-post-body h6 a.header-anchor,
 .card-post-body h6 .card a.header-anchor, .card-post-body figure.link, .card-post-body h2 .link.header-anchor,
 .card-post-body h3 .link.header-anchor,
 .card-post-body h4 .link.header-anchor,
@@ -2639,24 +2634,20 @@ img {
 .card-post-body h6 .post-meta.header-anchor, .card-post-body figure, .card-post-body h2 .teal-text.header-anchor, .card-post-body h2 .header-anchor.text-primary, .card-post-body h2 nav a.header-anchor, nav .card-post-body h2 a.header-anchor, .card-post-body h2 figure.header-anchor,
 .card-post-body h3 .teal-text.header-anchor,
 .card-post-body h3 .header-anchor.text-primary,
-.card-post-body h3 nav a.header-anchor,
-nav .card-post-body h3 a.header-anchor,
-.card-post-body h3 figure.header-anchor,
+.card-post-body h3 nav a.header-anchor, nav
+.card-post-body h3 a.header-anchor, .card-post-body h3 figure.header-anchor,
 .card-post-body h4 .teal-text.header-anchor,
 .card-post-body h4 .header-anchor.text-primary,
-.card-post-body h4 nav a.header-anchor,
-nav .card-post-body h4 a.header-anchor,
-.card-post-body h4 figure.header-anchor,
+.card-post-body h4 nav a.header-anchor, nav
+.card-post-body h4 a.header-anchor, .card-post-body h4 figure.header-anchor,
 .card-post-body h5 .teal-text.header-anchor,
 .card-post-body h5 .header-anchor.text-primary,
-.card-post-body h5 nav a.header-anchor,
-nav .card-post-body h5 a.header-anchor,
-.card-post-body h5 figure.header-anchor,
+.card-post-body h5 nav a.header-anchor, nav
+.card-post-body h5 a.header-anchor, .card-post-body h5 figure.header-anchor,
 .card-post-body h6 .teal-text.header-anchor,
 .card-post-body h6 .header-anchor.text-primary,
-.card-post-body h6 nav a.header-anchor,
-nav .card-post-body h6 a.header-anchor,
-.card-post-body h6 figure.header-anchor {
+.card-post-body h6 nav a.header-anchor, nav
+.card-post-body h6 a.header-anchor, .card-post-body h6 figure.header-anchor {
   color: #004d40 !important; }
 
 .teal.accent-1, nav.accent-1, .card-post-body figure.accent-1 {
@@ -3376,8 +3367,7 @@ nav .card-post-body h6 a.header-anchor,
 
 .blue-grey.lighten-5, .lighten-5.color-primary, nav.color-primary, .pagination nav.active,
 nav.page-footer, .pagination .lighten-5.active, .pagination .card-post-body figure.active, .card-post-body .pagination figure.active,
-.lighten-5.page-footer,
-.card-post-body figure.page-footer, .card-post-body figure.color-primary, nav.blue-grey, .card-post-body figure.blue-grey {
+.lighten-5.page-footer, .card-post-body figure.page-footer, .card-post-body figure.color-primary, nav.blue-grey, .card-post-body figure.blue-grey {
   background-color: #eceff1 !important; }
 
 .blue-grey-text.text-lighten-5, .card-post-body h2 .text-lighten-5.header-anchor,
@@ -3417,14 +3407,14 @@ nav.page-footer, .pagination .lighten-5.active, .pagination .card-post-body figu
 .lighten-2.page-footer {
   background-color: #90a4ae !important; }
 
-.blue-grey-text.text-lighten-2, .blue-grey-text.link, .card a.blue-grey-text, .card .card-post-body h2 a.header-anchor, .card-post-body h2 .card a.header-anchor,
-.card .card-post-body h3 a.header-anchor,
-.card-post-body h3 .card a.header-anchor,
-.card .card-post-body h4 a.header-anchor,
-.card-post-body h4 .card a.header-anchor,
-.card .card-post-body h5 a.header-anchor,
-.card-post-body h5 .card a.header-anchor,
-.card .card-post-body h6 a.header-anchor,
+.blue-grey-text.text-lighten-2, .blue-grey-text.link, .card a.blue-grey-text, .card .card-post-body h2 a.header-anchor, .card-post-body h2 .card a.header-anchor, .card
+.card-post-body h3 a.header-anchor,
+.card-post-body h3 .card a.header-anchor, .card
+.card-post-body h4 a.header-anchor,
+.card-post-body h4 .card a.header-anchor, .card
+.card-post-body h5 a.header-anchor,
+.card-post-body h5 .card a.header-anchor, .card
+.card-post-body h6 a.header-anchor,
 .card-post-body h6 .card a.header-anchor, .card-post-body h2 .link.header-anchor,
 .card-post-body h3 .link.header-anchor,
 .card-post-body h4 .link.header-anchor,
@@ -3608,13 +3598,14 @@ article .card {
   .card-post-body pre,
   .card-post-body .highlight {
     padding: 10px; }
-
   .card-post-body pre .gutter pre,
   .card-post-body .highlight .gutter pre {
     padding-right: 10px; } }
+
 @media (min-width: 992px) {
   .card-post-body {
     text-align: justify; } }
+
 .card-post-body h2 {
   font-size: 16px;
   font-weight: bold; }
@@ -3670,5 +3661,3 @@ div#pagination {
 
 div#pagination ul {
   list-style: none; }
-
-/*# sourceMappingURL=site.css.map */
