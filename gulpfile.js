@@ -3,8 +3,8 @@ var shell = require('gulp-shell');
 
 gulp.task('gh', shell.task([
   'git add . ',
-  'git commit . -m \"Update by Desmond\"',
-  'git push origin master' 
+  'git commit . -m \"Update by gulp script.\"',
+  'git push origin master --force' 
 ]));
 
 gulp.task('sw', shell.task([
