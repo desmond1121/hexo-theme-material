@@ -7,7 +7,6 @@
 
 <link rel="stylesheet" href="/third-party/materialize.min.css">
 <link rel="stylesheet" href="/css/site.css">
-<link rel="stylesheet" href="/css/main.css">
 
 <script type="text/javascript" src="/third-party/jquery-2.1.1.min.js"></script>
 <script type="text/javascript" src="/third-party/materialize.min.js"></script>

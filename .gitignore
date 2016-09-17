@@ -1,2 +1,5 @@
 node_modules/*
+*.sublime-project
 
+*.scss
+*.css.map

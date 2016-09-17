@@ -11,9 +11,24 @@
           <span class="post-meta-item-text">{{ __('post.posted') }}</span>
 
           {{ date(post.date, config.date_format) }}
-        </div>
 
-        <div class=card-post-body>{{post.excerpt}}</div>
+          {% if post.tags %}
+          <div class="tag-wrapper">
+            {% for tag in post.tags %}
+                <div class="chip"><span>{{tag.name}}</span></div>
+            {% endfor %}
+          </div>
+          {% endif %}
+        </div>
+        
+        <div class=card-post-body>
+        {% if post.excerpt %}
+          {{post.excerpt}}
+        {% else %}
+          {{post.content}}
+        {% endif %}
+        </div>
+        
       </div>
 
       <div class="card-action">
