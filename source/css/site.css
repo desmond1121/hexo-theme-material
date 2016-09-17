@@ -1,0 +1,131 @@
+nav {
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+nav .nav-wrapper .brand-logo {
+  font-size: 1.5rem;
+}
+
+.main-inner {
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 40px;
+	width: 70%;
+}
+
+article .card {
+  margin-top: 25px;
+}
+
+.card .card-content .card-title {
+  font-weight: bold;
+}
+
+.card-post-body figure {
+  overflow: auto;
+  margin: 20px 0;
+  padding: 10px;
+  font-size: 13px;
+  color: #004d40;
+  background: #e0f2f1;
+  line-height: 1.6;
+}
+
+@media (max-width: 767px) {
+
+  .card-post-body pre,
+  .card-post-body .highlight {
+    padding: 10px;
+  }
+  .card-post-body pre .gutter pre,
+  .card-post-body .highlight .gutter pre {
+    padding-right: 10px;
+  }
+}
+
+@media (min-width: 992px) {
+  .card-post-body {
+    text-align: justify;
+  }
+}
+
+.card-post-body h2 {
+  font-size: 16px;
+  font-weight:bold;
+}
+
+.card-post-body h2,
+.card-post-body h3,
+.card-post-body h4,
+.card-post-body h5,
+.card-post-body h6 {
+  padding-top: 10px;
+}
+.card-post-body h2 .header-anchor,
+.card-post-body h3 .header-anchor,
+.card-post-body h4 .header-anchor,
+.card-post-body h5 .header-anchor,
+.card-post-body h6 .header-anchor {
+  float: right;
+  margin-left: 10px;
+  color: #ccc;
+  border-bottom-style: none;
+  visibility: hidden;
+}
+.card-post-body h2 .header-anchor:hover,
+.card-post-body h3 .header-anchor:hover,
+.card-post-body h4 .header-anchor:hover,
+.card-post-body h5 .header-anchor:hover,
+.card-post-body h6 .header-anchor:hover {
+  color: inherit;
+}
+.card-post-body h2:hover .header-anchor,
+.card-post-body h3:hover .header-anchor,
+.card-post-body h4:hover .header-anchor,
+.card-post-body h5:hover .header-anchor,
+.card-post-body h6:hover .header-anchor {
+  visibility: visible;
+}
+
+.card-post-body ul {
+  list-style: none;
+}
+
+.card-post-body ul li {
+  display: list-item;
+  text-align: -webkit-match-parent;
+  list-style: circle;
+}
+
+.card-post-body img {
+  box-sizing: border-box;
+  margin: auto;
+  padding: 10px;
+}
+
+.post-meta {
+  margin: 10px 0;
+  color: #4db6ac;
+}
+
+ul {
+  -webkit-padding-start: 40px;
+}
+
+img {
+  max-width: 100%;
+}
+
+div#pagination {
+	text-align: center;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+div#pagination ul {
+	list-style: none;
+}
+]
+
+

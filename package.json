@@ -1,0 +1,16 @@
+{
+  "name": "hexo-theme-material",
+  "version": "1.0.0",
+  "description": "Hexo material theme.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Desmond Yao",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  },
+  "dependencies": {
+    "gulp-shell": "^0.5.2"
+  }
+}

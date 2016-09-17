@@ -1,0 +1,14 @@
+menu:
+  home: /
+  tags: /tags
+  archives: /archives
+  about: /about
+
+# Blogrolls
+links_title: 友情链接
+links:
+  Kaedea: http://kaedea.com/
+  Yrom: http://yrom.net/
+  MarkZhai: http://blog.zhaiyifan.cn/
+  泥阿布: http://abner-nimengbo.cn/
+  谢权: https://xiequan.info
