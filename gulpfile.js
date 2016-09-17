@@ -10,7 +10,7 @@ gulp.task('git', shell.task([
 
 gulp.task('s', function () {
   return gulp.src('source/css/site.scss')
-    .pipe(sass().on('error', sass.logError))
+    .pipe(sass.sync().on('error', sass.logError))
     .pipe(gulp.dest('source/css'));
 });
 
