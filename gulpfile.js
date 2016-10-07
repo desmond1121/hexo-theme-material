@@ -19,7 +19,7 @@ gulp.task('git:commit', ['git:add'], function() {
 		.pipe(git.commit('Update by gulp script.'));
 });
 
-gulp.task('git:push', function(){
+gulp.task('git:push', ['git:commit'], function(){
   git.push('origin', 'master', function (err) {
     if (err) throw err;
   });
