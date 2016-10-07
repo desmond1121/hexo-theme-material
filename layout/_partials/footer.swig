@@ -20,7 +20,7 @@
     </div>
   </div>
   <div class="footer-copyright">
-    <div class="container">
+    <div class="author-container">
     © 2016 {{config.author}}
     <div class="grey-text text-lighten-4 right">Powerd by <a href="https://hexo.io/">Hexo</a> | Theme <a href="">Material</a></div>
     </div>

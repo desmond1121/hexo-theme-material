@@ -5,21 +5,23 @@
   </head>
 
   <body>
+    <div class="row">
 
-  	{% include '_partials/nav.swig' %}
-
-    <main id="main">
-      <div class="main-inner">
-        <div class="content-wrap">
-          <div id="content" class="content">
-            {% block content %}{% endblock %}
-          </div>
-          {# {% include '_partials/comments.swig' %} #}
-        </div>
+      <div class="nav col s4">
+        {% include '_partials/side-nav.swig' %}
       </div>
-    </main>
 
-    {% include '_partials/footer.swig' %}
+      <div class="content col s8">
+        <main id="main">
+          <div class="main-inner">
+            <div class="content-wrap">
+                {% block content %}{% endblock %}
+            </div>
+          </div>
+        </main> 
+
+      </div>    
+    </div>
 
     <script type="text/javascript" src="/js/site.js"></script>
   </body>
